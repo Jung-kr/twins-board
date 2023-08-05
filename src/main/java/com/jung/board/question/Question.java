@@ -1,8 +1,9 @@
-package com.jung.board;
+package com.jung.board.question;
 
 import java.time.LocalDateTime;
 import java.util.List;
 
+import com.jung.board.answer.Answer;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

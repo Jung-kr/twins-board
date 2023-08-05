@@ -1,4 +1,4 @@
-package com.jung.board;
+package com.jung.board.question;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

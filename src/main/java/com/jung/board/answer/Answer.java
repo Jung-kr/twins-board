@@ -1,7 +1,8 @@
-package com.jung.board;
+package com.jung.board.answer;
 
 import java.time.LocalDateTime;
 
+import com.jung.board.question.Question;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
